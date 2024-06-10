@@ -1,6 +1,6 @@
 {
-  "name": "ViteReactPWA",
-  "short_name": "Explore PWA using vite react",
+  "name": "Explore Next PWA",
+  "short_name": "Explore Next PWA",
   "icons": [
     {
       "src": "/android-chrome-192x192.png",
